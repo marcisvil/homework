@@ -1,0 +1,2 @@
+# File to delete
+Let's just practice doing `git rm` on this one.
